@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<squad nick="COE">
+    <name>Comando de Operações Especiais</name>
+    <email>N/A</email>
+    <web>N/A</web>
+    <picture>61160cda092da56760425f0f5f2ccc3e.paa</picture>
+    <title>O Comando de Operações Especiais conta com unidades versáteis de apoio e de operações especiais.</title>
+    <member id="76561198114634992" nick="C.O.E WALKER">
+        <name>C.O.E WALKER</name>
+        <email>N/A</email>
+        <icq>N/A</icq>
+        <remark>N/A</remark>
+    </member>
+</squad>
